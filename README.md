@@ -22,10 +22,10 @@ ___
 
 ![image alt](https://github.com/Temitope-Kola/BUSINESS_ANALYSIS/blob/main/sql%20images/import%20of%20data%20into%20the%20database.png?raw=true)
 
-![image alt]()
+![image alt](https://github.com/Temitope-Kola/BUSINESS_ANALYSIS/blob/main/sql%20images/sql_creating_tables.png?raw=true)
 ___
 
-## is it true that most of the customers that are yet to pay for their orders this year are the ones that their cards expire in February this year?
+## Is it true that most of the customers that are yet to pay for their orders this year are the ones that their cards expire in February this year?
 using a combination of different SQL statements, I was able to provide the right answer to this
 ___
 
