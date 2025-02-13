@@ -32,7 +32,15 @@ using a combination of different SQL statements, I was able to provide the right
 ___
 
 ## which cities did we deliver the least number of chargers to in the 2nd and 3rd quarters of 2022?
+Using different SQL statement in the right syntax, I was able to provide the answer to this
 
+![image alt](https://github.com/Temitope-Kola/BUSINESS_ANALYSIS/blob/main/sql%20images/sql%20query1.png?raw=true)
+
+___
+
+## how many orders do we still have on the way to the customers this year?
+
+![image alt]()
 
 
 
