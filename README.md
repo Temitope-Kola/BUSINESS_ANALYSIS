@@ -18,6 +18,8 @@ ___
 # DATABASE CREATION
 * I created the database where all the data for this business can be properly stored,updated,altered and queried when the need arises.
 * I also created different tables connecting them to each other by defining the primary keys and foreign keys where neccessary using some complex codes.
+
+![image alt]()
 ___
 
 ## is it true that most of the customers that are yet to pay for their orders this year are the ones that their cards expire in February this year?
