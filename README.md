@@ -18,6 +18,9 @@ ___
 # DATABASE CREATION
 * I created the database where all the data for this business can be properly stored,updated,altered and queried when the need arises.
 * I also created different tables connecting them to each other by defining the primary keys and foreign keys where neccessary using some complex codes.
+* I imported data into these tables following some technical procedures
+
+![image alt](https://github.com/Temitope-Kola/BUSINESS_ANALYSIS/blob/main/sql%20images/import%20of%20data%20into%20the%20database.png?raw=true)
 
 ![image alt]()
 ___
