@@ -17,8 +17,8 @@ ___
 
 # DATABASE CREATION
 * I created the database where all the data for this business can be properly stored,updated,altered and queried when the need arises.
-* I also created different tables connecting them to each other by defining the primary keys and foreign keys where neccessary using some complex codes.
-* I imported data into these tables following some technical procedures
+* I also created different tables connecting them to each other by defining the primary keys and foreign keys where neccessary using the combination of some complex SQL statements.
+* I imported data into these tables following some technical procedures and it ran successfully.
 
 ![image alt](https://github.com/Temitope-Kola/BUSINESS_ANALYSIS/blob/main/sql%20images/import%20of%20data%20into%20the%20database.png?raw=true)
 
@@ -39,8 +39,8 @@ Using different SQL statement in the right syntax, I was able to provide the ans
 ___
 
 ## how many orders do we still have on the way to the customers this year?
-
-![image alt]()
+With zthe right sql statement, I queried the data within this database and got the appropriate answer to the question.
+![image alt](https://github.com/Temitope-Kola/BUSINESS_ANALYSIS/blob/main/sql%20images/sql%20query2.png?raw=true)
 
 
 
