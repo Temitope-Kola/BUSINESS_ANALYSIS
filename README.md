@@ -27,7 +27,12 @@ ___
 
 ## Is it true that most of the customers that are yet to pay for their orders this year are the ones that their cards expire in February this year?
 using a combination of different SQL statements, I was able to provide the right answer to this
+
+![image alt](https://github.com/Temitope-Kola/BUSINESS_ANALYSIS/blob/main/sql%20images/SQL%20QUERY3.png?raw=true)
 ___
+
+## which cities did we deliver the least number of chargers to in the 2nd and 3rd quarters of 2022?
+
 
 
 
