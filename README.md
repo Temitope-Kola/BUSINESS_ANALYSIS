@@ -1,7 +1,7 @@
 # BUSINESS ANALYSIS
 ![image alt](https://github.com/Temitope-Kola/BUSINESS_ANALYSIS/blob/main/sql%20images/business%20analysis.png?raw=true)
 ___
-## BY DEBORAH KOLA ADEMOLA
+## BY DEBORAH KOLA, TEMITOPE
 
 ___
 
